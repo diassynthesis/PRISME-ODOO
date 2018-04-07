@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import postit
-import postit_tag
-import postit_day
+from . import postit
+from . import postit_tag
+from . import postit_day
 
